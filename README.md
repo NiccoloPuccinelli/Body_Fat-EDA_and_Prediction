@@ -1,4 +1,4 @@
-# Foundations-of-Probability-and-Statistics
+# Foundations of Probability and Statistics
 
 This exam consisted of a written test and a project on the main topics of the course.
 
