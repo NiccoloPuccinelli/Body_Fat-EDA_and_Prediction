@@ -1,7 +1,7 @@
-# Foundations of Probability and Statistics
+# EDA and Prediction on Body Fat Dataset
 
-This exam consisted of a written test and a project on the main topics of the course.
+In this repo you can find a pdf concerning the work done by me and my colleague **Marco Scatassi**. 
 
-The exercise was carried out in **R language**. Together with my colleague **Marco Scatassi**, we analyzed the **Kaggle** BodyFat dataset (https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset), then we performed multiple linear regression and prediction.
+The work is divided into two parts: an **exploratory data analysis** and a **multiple linear regression** for predicting body fat comparing different techniques and features.
 
-Final grade: **29**.
+The project was carried out in **R language**, using the **Kaggle** BodyFat dataset (https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset).
