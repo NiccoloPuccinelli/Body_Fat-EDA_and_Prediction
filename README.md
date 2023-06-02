@@ -1,4 +1,4 @@
-# EDA and Prediction on Body Fat Dataset
+# Body Fat: EDA and Prediction
 
 In this repo you can find a pdf concerning the work done by me and my colleague **Marco Scatassi**. 
 
